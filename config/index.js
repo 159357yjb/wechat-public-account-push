@@ -20,9 +20,9 @@ export const config = {
    *    // 想要发送的人的名字
    *    name: "老婆0",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "ob6is55H3dXUquVfLH_6swto9Rwg",
+   *    id: "oUQb55wya91p_gl9PaH0DOV0LLy4",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "y1xEn6jycZ918JjMkQH4hsmseO8hH6bIbK9YqOwpEI4",
+   *    useTemplateId: "CSuUs9OGjTqVAX1gMA2q5c0GiyUXWCa1ktr1QO6Wr-o",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -33,9 +33,9 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ob6is55H3dXUquVfLH_6swto9Rwg",
+      id: "oUQb55wya91p_gl9PaH0DOV0LLy4",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "y1xEn6jycZ918JjMkQH4hsmseO8hH6bIbK9YqOwpEI4",
+      useTemplateId: "CSuUs9OGjTqVAX1gMA2q5c0GiyUXWCa1ktr1QO6Wr-o",
       // 所在省份
       province: "广东",
       // 所在城市
